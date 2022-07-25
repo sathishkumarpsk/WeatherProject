@@ -15,5 +15,5 @@ How to install the required node packages and start using the app?
 a. express => npm i express
 b. https => npm i https
 c. bodyParser => npm i body-parser
-4. Run nodemon app.js in terminal
+4. Run nodemon app.js (OR) node app.js in terminal
 5. Now the application will be accessable in "http://localhost:3000/"
